@@ -1,0 +1,21 @@
+Epoch: 1 Loss = 3.406 Test accuracy:  0.116
+Epoch: 2 Loss = 3.238 Test accuracy:  0.154
+Epoch: 3 Loss = 3.135 Test accuracy:  0.262
+Epoch: 4 Loss = 2.878 Test accuracy:  0.420
+Epoch: 5 Loss = 2.415 Test accuracy:  0.505
+Epoch: 6 Loss = 2.023 Test accuracy:  0.578
+Epoch: 7 Loss = 1.780 Test accuracy:  0.616
+Epoch: 8 Loss = 1.639 Test accuracy:  0.649
+Epoch: 9 Loss = 1.530 Test accuracy:  0.664
+Epoch: 10 Loss = 1.451 Test accuracy:  0.683
+Epoch: 11 Loss = 1.391 Test accuracy:  0.694
+Epoch: 12 Loss = 1.337 Test accuracy:  0.706
+Epoch: 13 Loss = 1.302 Test accuracy:  0.712
+Epoch: 14 Loss = 1.273 Test accuracy:  0.719
+Epoch: 15 Loss = 1.244 Test accuracy:  0.731
+Epoch: 16 Loss = 1.214 Test accuracy:  0.733
+Epoch: 17 Loss = 1.196 Test accuracy:  0.738
+Epoch: 18 Loss = 1.178 Test accuracy:  0.742
+Epoch: 19 Loss = 1.152 Test accuracy:  0.744
+Epoch: 20 Loss = 1.141 Test accuracy:  0.755
+Total accuracy: 74.6999979019165 %

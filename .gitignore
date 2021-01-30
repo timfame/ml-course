@@ -1,0 +1,8 @@
+cf/.idea/**
+cf/__pycache__/**
+cf/venv/**
+
+*/.idea/**
+*/venv/**
+
+CNN/saves/**

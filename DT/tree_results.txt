@@ -1,0 +1,105 @@
+data#1: 
+	criterion: "entropy" 
+	splitter: "best" 
+	max_depth: 3 
+	accuracy: 0.9997429966589566
+data#2: 
+	criterion: "entropy" 
+	splitter: "best" 
+	max_depth: 9 
+	accuracy: 0.7035623409669212
+data#3: 
+	criterion: "gini" 
+	splitter: "best" 
+	max_depth: 1 
+	accuracy: 1.0
+data#4: 
+	criterion: "gini" 
+	splitter: "best" 
+	max_depth: 5 
+	accuracy: 0.9926956521739131
+data#5: 
+	criterion: "entropy" 
+	splitter: "random" 
+	max_depth: 5 
+	accuracy: 1.0
+data#6: 
+	criterion: "entropy" 
+	splitter: "best" 
+	max_depth: 3 
+	accuracy: 0.9988962472406181
+data#7: 
+	criterion: "entropy" 
+	splitter: "best" 
+	max_depth: 3 
+	accuracy: 0.9967441860465116
+data#8: 
+	criterion: "gini" 
+	splitter: "best" 
+	max_depth: 3 
+	accuracy: 0.997920997920998
+data#9: 
+	criterion: "entropy" 
+	splitter: "best" 
+	max_depth: 5 
+	accuracy: 0.8490196078431372
+data#10: 
+	criterion: "entropy" 
+	splitter: "best" 
+	max_depth: 4 
+	accuracy: 0.9979879275653923
+data#11: 
+	criterion: "gini" 
+	splitter: "best" 
+	max_depth: 1 
+	accuracy: 0.999195171026157
+data#12: 
+	criterion: "entropy" 
+	splitter: "best" 
+	max_depth: 8 
+	accuracy: 0.8756665731125456
+data#13: 
+	criterion: "entropy" 
+	splitter: "best" 
+	max_depth: 7 
+	accuracy: 0.6522935779816513
+data#14: 
+	criterion: "entropy" 
+	splitter: "best" 
+	max_depth: 5 
+	accuracy: 0.990351215746816
+data#15: 
+	criterion: "gini" 
+	splitter: "best" 
+	max_depth: 1 
+	accuracy: 1.0
+data#16: 
+	criterion: "gini" 
+	splitter: "best" 
+	max_depth: 1 
+	accuracy: 1.0
+data#17: 
+	criterion: "entropy" 
+	splitter: "best" 
+	max_depth: 7 
+	accuracy: 0.847571189279732
+data#18: 
+	criterion: "entropy" 
+	splitter: "best" 
+	max_depth: 5 
+	accuracy: 0.9426656738644825
+data#19: 
+	criterion: "entropy" 
+	splitter: "best" 
+	max_depth: 7 
+	accuracy: 0.8364591147786947
+data#20: 
+	criterion: "entropy" 
+	splitter: "best" 
+	max_depth: 7 
+	accuracy: 0.9706814580031695
+data#21: 
+	criterion: "entropy" 
+	splitter: "best" 
+	max_depth: 19 
+	accuracy: 0.8161065313887127

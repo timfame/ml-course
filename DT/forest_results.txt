@@ -1,0 +1,63 @@
+Data#1:
+    Train accuracy: 1.0
+    Test accuracy: 0.9979439732716525
+Data#2:
+    Train accuracy: 1.0
+    Test accuracy: 0.5875318066157761
+Data#3:
+    Train accuracy: 1.0
+    Test accuracy: 1.0
+Data#4:
+    Train accuracy: 1.0
+    Test accuracy: 0.9763478260869565
+Data#5:
+    Train accuracy: 1.0
+    Test accuracy: 0.9913419913419913
+Data#6:
+    Train accuracy: 1.0
+    Test accuracy: 0.9994481236203091
+Data#7:
+    Train accuracy: 1.0
+    Test accuracy: 0.9748837209302326
+Data#8:
+    Train accuracy: 1.0
+    Test accuracy: 0.9708939708939709
+Data#9:
+    Train accuracy: 1.0
+    Test accuracy: 0.803921568627451
+Data#10:
+    Train accuracy: 1.0
+    Test accuracy: 0.9971830985915493
+Data#11:
+    Train accuracy: 1.0
+    Test accuracy: 0.9983903420523139
+Data#12:
+    Train accuracy: 1.0
+    Test accuracy: 0.9250631490317148
+Data#13:
+    Train accuracy: 1.0
+    Test accuracy: 0.555045871559633
+Data#14:
+    Train accuracy: 1.0
+    Test accuracy: 0.966036279428792
+Data#15:
+    Train accuracy: 1.0
+    Test accuracy: 0.9975975975975976
+Data#16:
+    Train accuracy: 1.0
+    Test accuracy: 1.0
+Data#17:
+    Train accuracy: 1.0
+    Test accuracy: 0.6677833612506979
+Data#18:
+    Train accuracy: 1.0
+    Test accuracy: 0.8577810871183916
+Data#19:
+    Train accuracy: 1.0
+    Test accuracy: 0.840960240060015
+Data#20:
+    Train accuracy: 1.0
+    Test accuracy: 0.9841521394611727
+Data#21:
+    Train accuracy: 1.0
+    Test accuracy: 0.849714648065948

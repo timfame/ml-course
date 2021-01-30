@@ -1,0 +1,4 @@
+Best accuracy = 0.9504587155963303 	n = 2 	alpha = 0.001
+
+Optimal:
+l_spam = 1  =>  l_legit = 92

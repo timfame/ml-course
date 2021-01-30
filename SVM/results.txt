@@ -1,0 +1,13 @@
+Example: chips.csv
+	Linear: accuracy=0.5, C=0.5
+	Polynomial: accuracy=0.690909, C=100.000000, power=5.000000
+	Gauss: accuracy=0.827246, C=100.000000, betta=5.000000
+Best is gauss
+
+Example: geyser.csv
+	Linear: accuracy=0.904545, C=5.000000
+	Polynomial: accuracy=0.915618, C=5.000000, power=2.000000
+	Gauss: accuracy=0.834949, C=10.000000, betta=1.000000
+Best is polynomial
+
+Process finished with exit code 0

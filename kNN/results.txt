@@ -1,0 +1,4 @@
+Best measure: 0.46
+	distance function: <function manhattan_dist at 0x000001CDF9F0B310>
+	kernel function: <function uniform_kernel at 0x000001CDF9F0B550>
+	window size: 3.0
